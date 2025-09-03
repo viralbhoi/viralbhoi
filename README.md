@@ -33,17 +33,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-
-![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viralbhoi&theme=dark)
-
-</div>
-<br>
-
 <h1 align="center">hey there 👋</h1>
 
 ###
@@ -99,6 +88,17 @@
 </div>
 
 ###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+
+![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viralbhoi&theme=dark)
+
+</div>
+<br>
 
 <br>
 
