@@ -46,10 +46,9 @@ Building intelligent systems, scalable backends, and solving complex algorithmic
 ## Highlights
 
 ```txt
-LeetCode Rating      : 1905
+LeetCode Rating      : 1908
 CodeChef Rating      : 1625
 ICPC AIR             : 256
-LeetCode Global Rank : 918
 Problems Solved      : 2000+
 ```
 
